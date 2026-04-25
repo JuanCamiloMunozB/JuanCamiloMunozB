@@ -8,8 +8,14 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2500&color=8EF6D4&center=true&vCenter=true&width=900&height=45&lines=Backend-focused+Software+Engineering+student;Distributed+systems+%E2%80%A2+Data+platforms+%E2%80%A2+AI+infrastructure;Building+the+backend+layer+behind+modern+software" 
-    alt="Backend-focused Software Engineering student" 
+    alt="Typing SVG" 
   />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=spring&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=for-the-badge&logo=apachekafka&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
+  <img src="https://img.shields.io/badge/Data%20%2F%20AI%20Infra-0D1117?style=for-the-badge&logo=databricks&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
 </p>
 
 <p align="center">
@@ -22,8 +28,7 @@
   </a>
 </p>
 
-## 👋 About me
-
+## 🧩 About me
 
 Backend in the mix. Systems on my mind.
 
