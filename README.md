@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-camilo-mu%C3%B1oz-barco-687678350/">
+  <a href="https://www.linkedin.com/in/juancamuba/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn" />
   </a>
   &nbsp;
