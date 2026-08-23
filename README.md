@@ -125,57 +125,6 @@ Where I'm heading is the architectural side of that work — how data gets model
   </tr>
 </table>
 
-
-
-## 📦 Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Postgraduate Academic Planning System** &nbsp; `private`
-
-Production system used by Universidad Icesi's Graduate Studies Office. I designed a state machine governing planning lifecycle transitions with idempotent, event-driven handling, and hit 80.88% coverage on delivered components. Also ran a sprint as Scrum Master for an 8-person team.
-
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL`
-
-*Source lives in a private Bitbucket repo — happy to walk through the architecture on request.*
-
-</td>
-<td width="50%" valign="top">
-
-**JugandoAndo — E-Commerce Platform**
-
-Built from scratch: ~80 REST endpoints over a 17-table schema I designed end to end. Dual authentication — stateless JWT for the API, session-based for the admin console — plus event-driven real-time notifications via a publisher/subscriber pattern.
-
-`Java` `Spring Boot` `React` `PostgreSQL` `WebSockets` `JWT`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**AplanchadosConAmor — Accounting System**
-
-A real bakery client, a real problem: manual reconciliation eating hours every week. Bulk Excel ingestion, automated daily and monthly reporting, role-based access separating employees from management. Covered with unit, integration, and API test suites.
-
-`TypeScript` `NestJS` `Next.js` `PostgreSQL` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-**SportExpert — Recommendation System**
-
-A layered, extensible architecture built on OOP design patterns — Factory and Singleton doing real work, supporting two sport domains without duplicating inference logic. Grew from a prototype chatbot into a deployed web app with auth and persistent storage.
-
-`Python` `Flask` `pgmpy` `PostgreSQL` `Render`
-
-</td>
-  </tr>
-</table>
-
-> Currently building a maturity-assessment platform for innovation initiatives as my degree project at **Universidad Icesi's INNLAB Center**, leading the scoring model and data schema design across six evaluation dimensions.
-
 ## 🔭 Current focus
 
 <table>
