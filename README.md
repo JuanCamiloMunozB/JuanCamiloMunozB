@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:juancamuba.swe@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email me"></a>
   <a href="https://juancamilomunozb.github.io/portfolio/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio"></a>
-  <a href="https://juancamilomunozb.github.io/portfolio/cv/"><img src="assets/btn-cv.svg" height="52" alt="View CV"></a>
   <a href="https://www.linkedin.com/in/juancamuba"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
 </p>
 
