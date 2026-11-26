@@ -1,159 +1,37 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=100000&color=2EC4A6&center=true&vCenter=true&width=900&height=70&lines=Hey+there+%F0%9F%91%8B+I%27m+Juan+Camilo" 
-    alt="Hey there, I'm Juan Camilo" 
-  />
+  <img src="assets/header.svg" width="100%" alt="Juan Camilo Muñoz Barco, Backend and Distributed Systems Engineer, Final-Year Software Engineering Student. Open to internships from 2027-1.">
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2500&color=8EF6D4&center=true&vCenter=true&width=900&height=45&lines=Backend+engineering+%E2%86%92+Distributed+systems+%E2%86%92+Architecture;Scalable%2C+data-driven+systems+and+the+platforms+behind+them;Building+the+layer+nobody+sees+but+everyone+depends+on" 
-    alt="Typing SVG" 
-  />
+  <a href="mailto:juancamuba.swe@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email me"></a>
+  <a href="https://juancamilomunozb.github.io/portfolio/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio"></a>
+  <a href="https://juancamilomunozb.github.io/portfolio/cv/"><img src="assets/btn-cv.svg" height="52" alt="View CV"></a>
+  <a href="https://www.linkedin.com/in/juancamuba"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
 </p>
+
+<img src="assets/title-about.svg" width="100%" alt="About me">
+
+<img src="assets/about.svg" width="100%" alt="Software Engineering at Universidad Icesi, 9 of 10 semesters, GPA 4.6 of 5.0. Focus: backend, distributed systems and data infrastructure. Next: data and AI engineering. Cali, Colombia. Internship: 6+ months, remote or on-site, from 2027-1.">
+
+I spend most of my time on the part of the stack nobody sees but everyone depends on: service boundaries, data models, async workflows and the infrastructure that keeps them standing. My strongest side is architecture and system design, and where I am heading is data and AI engineering: how data gets modeled, moved and turned into something a product can use.
+
+<img src="assets/title-think.svg" width="100%" alt="How I think">
+
+<img src="assets/principles.svg" width="100%" alt="Service design, event-driven flows, security by default, automation over ceremony, data as a capability, trade-offs first">
+
+<img src="assets/title-now.svg" width="100%" alt="Right now">
+
+<img src="assets/now.svg" width="100%" alt="Building a data-intensive side project; reading Designing Data-Intensive Applications; AWS Well-Architected; architecture patterns; observability; final year of Software Engineering">
+
+<img src="assets/title-tools.svg" width="100%" alt="Daily drivers">
+
+<img src="assets/tools.svg" width="100%" alt="Java, Spring Boot, TypeScript, NestJS, Python, PostgreSQL, Kafka, Docker, Kubernetes, Terraform, AWS, Google Cloud, React, Linux">
+
+<img src="assets/title-contact.svg" width="100%" alt="Let's talk">
+
+Projects, with the decisions and trade-offs behind each one, live in my [portfolio](https://juancamilomunozb.github.io/portfolio/). If you want to talk about backend, data or an internship from 2027-1, write me.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=spring&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=for-the-badge&logo=apachekafka&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
-  <img src="https://img.shields.io/badge/Platform%20%26%20Data-0D1117?style=for-the-badge&logo=kubernetes&logoColor=2EC4A6&labelColor=0D1117&color=2EC4A6" />
+  <a href="mailto:juancamuba.swe@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/juancamuba"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juancamuba/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:juancamuba.swe@gmail.com">
-     <img src="https://img.icons8.com/color/50/gmail-new.png" height="50" width="50" />
-  </a>
-</p>
-
-
-## 🧩 About me
-
-**Backend in the mix. Systems on my mind.**
-
-I'm a final-year Software Engineering student at Universidad Icesi, and I spend most of my time on the part of the stack nobody sees but everyone depends on — service boundaries, data models, async workflows, and the infrastructure that keeps all of it standing when real traffic shows up.
-
-My work so far has been backend-heavy: designing relational schemas, building REST APIs, and implementing authentication and event-driven flows in Java, TypeScript, and Python. Some of it runs in production, including an academic planning system used by my university's Graduate Studies Office and a financial platform that replaced manual bookkeeping for a small business.
-
-Where I'm heading is the architectural side of that work — how data gets modeled, processed, and turned into something a product can actually use, and how automation and platform practices make systems reliable instead of fragile. I care about trade-offs more than tools, and I try to pick technologies (including AI) only when they genuinely make the system better.
-
-⚙️ *Still learning, still shipping, still tightening the craft.*
-
-
-
-## 🛠️ Stack & tooling
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-<h3 align="center">Core stack</h3>
-
-<p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,express,django,flask,graphql&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Platform & DevOps</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,aws,gcp,linux,bash&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Tooling & Testing</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,jest,cypress,postman&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Data & ML</strong><br>
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow&theme=dark" />
-</p>
-
-</td>
-<td width="45%" valign="top">
-
-<h3 align="center">How I think about it</h3>
-
-<p>
-  <strong>🧱 Service design</strong><br>
-  Clear boundaries, honest contracts, and data models that don't fight the domain.
-</p>
-
-<p>
-  <strong>🔀 Event-driven flows</strong><br>
-  Publisher/subscriber patterns, async decoupling, and state machines that stay idempotent.
-</p>
-
-<p>
-  <strong>🔐 Security by default</strong><br>
-  Authentication, authorization, and IAM policies treated as design concerns, not afterthoughts.
-</p>
-
-<p>
-  <strong>🚢 Automation over ceremony</strong><br>
-  Containers, pipelines, and infrastructure that make deployment boring — which is the goal.
-</p>
-
-<p>
-  <strong>📊 Data as capability</strong><br>
-  Storing, processing, and transforming data into something the product can actually use.
-</p>
-
-<p>
-  <strong>⚖️ Trade-offs first</strong><br>
-  Every technical decision measured against users, cost, and what the business is trying to do.
-</p>
-
-</td>
-  </tr>
-</table>
-
-## 🔭 Current focus
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧩 Architectural patterns</h4>
-      Circuit Breaker, CQRS, Saga, API Gateway, and service discovery — learning when each one earns its complexity and when it doesn't.
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud architecture</h4>
-      Working through the AWS Well-Architected Framework: IAM, VPC design, managed databases, autoscaling, and infrastructure as code.
-    </td>
-    <td width="33%" valign="top">
-      <h4>📡 Distributed systems</h4>
-      Reading <em>Designing Data-Intensive Applications</em> and building toward event streaming, replication, and consistency trade-offs.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>👁️ Observability</h4>
-      Logs, metrics, and distributed tracing — the signal chain that separates a healthy system from a guess.
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 AI in systems</h4>
-      Treating AI as a component to evaluate and integrate deliberately, not as an identity. Where does it actually improve the system?
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧮 Fundamentals</h4>
-      Algorithms, data structures, and system design practice — the groundwork underneath everything above.
-    </td>
-  </tr>
-</tabl
